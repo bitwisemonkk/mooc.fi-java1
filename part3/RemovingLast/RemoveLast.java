@@ -15,6 +15,7 @@ public class RemoveLast {
     removeLast(strings);
 
     System.out.println(strings);
+    System.out.println("este es un cambio");
   }
 
   //
