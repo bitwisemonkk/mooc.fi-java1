@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-import javax.sound.midi.Receiver;
-
 public class PrintInRange {
   public static void main(String[] args) {
     ArrayList<Integer> numbers = new ArrayList<>();
